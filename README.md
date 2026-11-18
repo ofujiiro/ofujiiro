@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hi, I'm ofujiiro 👋
+# Hi, I'm Alban
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Optic+fiber+%E2%9C%A8+Linux+%F0%9F%90%A7;Building+apps+with+Claude+%F0%9F%A4%96" alt="Typing SVG" />
 
 ### About me
 
-🔦 I work on **optic fiber** networks<br/>
-🐧 I live in **Linux**<br/>
-🤖 I build applications **with Claude only**
+I work on **optic fiber** networks<br/>
+I develop for **Linux** ecosystems (and windows when i feel generous)<br/>
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
 
